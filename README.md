@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xEpsi
 - 🌱 I’m currently learning Python, JavaScript, some C++ and some HTML.
 - 📚 My SoloLearn profile: https://www.sololearn.com/profile/19959712
-- 📫 Reach me on Discord: Epsi#0001 | dsc.bio/epsi
+- 📫 Reach me on Discord: https://dsc.bio/epsi | https://xepsi.repl.co
 - 🎬 Check out my YouTube channel: https://www.youtube.com/xEpsi
 
 <!---
