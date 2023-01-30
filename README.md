@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xEpsi
 - 🌱 I’m currently learning Python, JavaScript (React.js), C and some HTML/CSS.
-- 📫 Reach me on Discord: https://discord.gg/epsi | Epsi#0001 | http://epsi.space/
+- 📫 Reach me on Discord: https://discord.gg/botdeveloper | Epsi#0001
 - 🎬 Check out my YouTube channel: https://www.youtube.com/xEpsi
 
 <!---
